@@ -1,5 +1,3 @@
-# CLion不读取CMake
-
 CLion点开CMake显示`不是普通CMake项目`
 
 ![](../png/c++/1.png)
