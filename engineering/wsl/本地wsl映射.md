@@ -25,7 +25,7 @@ sudo service ssh start
 ps -ef | grep '[s]shd'
 ```
 
-![image](../png/software%20engineering/2.png)
+![image](../../png/engineering/2.png)
 
 看一下拉起的是哪个端口
 
@@ -33,7 +33,7 @@ ps -ef | grep '[s]shd'
 sudo /usr/sbin/sshd -T | grep -E '^(port|listenaddress|addressfamily)'
 ```
 
-![image](../png/software%20engineering/3.png)
+![image](../../png/engineering/3.png)
 
 验证一下wsl的ssh开好了没。
 
@@ -56,7 +56,7 @@ $wslIp = (wsl hostname -I).Trim().Split()[0]
 $wslIp
 ```
 
-![image](../png/software%20engineering/4.png)
+![image](../../png/engineering/4.png)
 
 # 3. 本地windows发起wsl映射
 
@@ -66,15 +66,15 @@ $wslIp
 ipconfig
 ```
 
-![image](../png/software%20engineering/5.png)
+![image](../../png/engineering/5.png)
 
-![image](../png/software%20engineering/6.png)
+![image](../../png/engineering/6.png)
 
 现在有了wsl和windows的IP。打开IPOP。**本地地址**填windows的IP，端口随便写个，映射地址填**wsl地址**，端口填前面wsl里的端口。
 
 填完点右边的增加，增加了以后，点右边下面的映射，发起映射。
 
-![image](../png/software%20engineering/7.png)
+![image](../../png/engineering/7.png)
 
 
 #IPOP #ipop #映射 #wsl映射 #wsl #Ubuntu

@@ -8,7 +8,7 @@ vi /etc/ssh/sshd_config
 
 找到`sftp`，会发现是注释了的状态，把注释解开。
 
-![image](../png/software%20engineering/1.png)
+![image](../png/engineering/1.png)
 
 重启sshd
 
