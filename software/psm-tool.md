@@ -2,8 +2,8 @@
 
 W3上看到的两个版本的，不知道有啥区别。
 
-[psm_tool.zip](../installer/psm-tool/psm_tool.zip)
-[psm-tool.rar](../installer/psm-tool/psm-tool.rar)
+[psm_tool.zip](../installer/psm/psm_tool.zip)
+[psm-tool.rar](../installer/psm/psm-tool.rar)
 
 # 调用方式
 
