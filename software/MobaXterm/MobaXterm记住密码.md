@@ -1,1 +1,1 @@
-![image](../png/engineering/28.png)
+![image](../../png/engineering/28.png)

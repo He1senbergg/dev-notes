@@ -6,8 +6,8 @@
 
 # 解决方案
 
-![image](../png/engineering/29.png)
+![image](../../png/engineering/29.png)
 
-![image](../png/engineering/30.png)
+![image](../../png/engineering/30.png)
 
 #MobaXterm #卡顿 #CSDN #服务器连接 #连接 #X11 #x11

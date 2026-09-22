@@ -36,10 +36,6 @@ c
 
 ---
 
-插件压缩包下载：[gdb_r12_arm.rar](/vision-file-storage/api/file/download/attachment-v2/WIKI202508147881668/27425958/20250814T201054Z_0c23190cd67a47988d8c937512cc18ab.rar?attachment_id=27425958)
-
----
-
 # ChatGPT说明
 
 这段代码看起来是与 **GDB（GNU 调试器）** 相关的调试脚本。GDB 是用于调试程序的工具，允许开发人员在程序运行时暂停并检查程序的状态。让我们逐行解释这段代码。
