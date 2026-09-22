@@ -1,3 +1,7 @@
+软件下载，传到机器上、容器里。[gdb](../installer/gdb/gdb_package.zip)
+
+----
+
 # 首先
 
 以特权进容器。
